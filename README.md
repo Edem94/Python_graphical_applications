@@ -1,2 +1,2 @@
 # Python_graphical_applications
-My Python programming applications built using graphical user interface
+My Python GUI applications built using Python graphical modules
